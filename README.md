@@ -1,4 +1,4 @@
-# MediAssist AI
+# MediAssist AI  https://github.com/nivaskrishna/MediAssist-Ai.git
 
 MediAssist AI is a production-quality, responsive web application designed to help users during medical emergencies by providing AI symptom classification, Leaflet mapping for nearby hospital search, first aid directives, and emergency dials.
 
