@@ -6,8 +6,8 @@ MediAssist AI is a production-quality, responsive web application designed to he
 
 ## Technical Architecture
 
-*   **Frontend:** React (Vite) + TailwindCSS v4 + Leaflet Maps + Axios + Lucide Icons
-*   **Backend:** FastAPI (Python) + SQLAlchemy ORM + SQLite / PostgreSQL
+*   **Frontend:** React (Vite) + CSS 
+*   **Backend:** FastAPI (Python) +  SQLite 
 *   **AI:** Gemini Pro AI integration
 *   **Maps:** Nominatim OpenStreetMap (Geocoding) + Overpass QL API (Hospital search)
 
